@@ -1,2 +1,2 @@
 # Youtube-Manager-App
-App that allows user to manage YouTube account. Also works as video player.
+An application that allows the user to manage their YouTube account and search/play videos. In the app the user may upload videos from their pc onto their account and allow them to enter video info such as a title and description. The user can also search for videos on YouTube and play them in a media player while pulling relevant meta data such as the video’s publication date and URL link
